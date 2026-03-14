@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html lang="en" class="mod modLayout">
+    <head>
+                    <title></title>
+                <!-- This product is built using third-party software, as described here: https://app.frontify.com/licenses.md -->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="x-csrf-token" content="f41af94cb32fbdec604be0688255963d8e3e62232f1351db42465f559d6896ab" /><link rel="stylesheet" type="text/css" href="https://cdn.frontify.com/css/frontify-bootstrap.1104d44e9b601c73.css" />
+
+<style type="text/css" id="js-o-auth__style">
+  .o-auth__note {  border-radius: 4px;}.o-auth__submit {  border-radius: 8px;  background-color: rgb(45, 133, 243);  color: rgb(255, 255, 255);}.o-auth__submit:hover {  background-color: #1971df;}.o-auth__submit:active {  background-color: #1971df;}.o-auth__submit--oauth-and-saml {  border-radius: 8px;  background-color: rgb(45, 133, 243);  color: rgb(255, 255, 255);}.o-auth__error-message {  color: rgb(204, 44, 72);}.o-auth__submit--oauth-and-saml:hover {  background-color: #1971df;}.o-auth__note {  color: rgb(128, 128, 128);  background-color: rgb(234, 235, 235);}@media (min-width: 480px) {  .o-auth, .skinLayoutRequestAccess {    background-image: url("https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9OdWlZS1hXM0R6VVVOYk1NVzlDbS5qcGcifQ:supercell:FZuOdNphiKn0FUbHMDh8k0gk0eEieo2MNaSJKnqJwog?width={width}");  }}.o-auth, .skinLayoutRequestAccess {  background-position: center;}.o-auth, .skinLayoutRequestAccess {  background-color: rgb(246, 246, 246);}</style>
+
+
+  <link
+    rel="icon"
+    href="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9zaDZFZEF4Y0I0M1ptajhlQWV3Uy5wbmcifQ:supercell:pHpt0uyryFfHL2BjX3785TbNtJnYj27e4iWB78AjLA4?width={width}"
+    type="image/png"
+  />
+    </head>
+    <body
+            >
+        <div class="mod mod-skip-to-main-content skip-to-main-content"></div>
+
+        <div class="mod mod-c-globalmessage c-globalmessage c-globalmessage--hidden">
+    <div class="c-globalmessage__container js-c-globalmessage__container"></div>
+</div>
+
+        <div class="mod mod-c-outstandingpayment co-outstandingpayment state-visible"></div>
+
+                    
+
+                <main class="main-content"></main>
+        <div class="js-co-modals__container co-modals__container">
+    <div class="cm-modal__overlay js-cm-modal__overlay"></div>
+    <div class="mod mod-c-modal cm-modal js-cm-modal" data-modal-id="modal">
+        <div class="cm-modal__wrapper">
+            <a
+                href="javascript:;"
+                class="cm-modal__close js-cm-modal__close"
+                title="Close"
+                aria-label="Close">
+                <i class="ca-icon--reject ca-icon--md"></i>
+            </a>
+            <div class="cm-modal__content js-cm-modal__content"></div>
+        </div>
+    </div>
+</div>
+
+<div class="mod mod-c-swal"></div>
+<div class="mod mod-c-payment co-payment clearfix"></div>
+<div class="mod mod-c-downloader co-downloader js-co-downloader"></div>
+<div class="mod mod-email-change-request"></div>
+
+<script type="text/javascript">
+    window.currentLanguage = "" || window.currentLanguage;
+
+    window.__frontify_do_not_use_or_you_will_be_fired = {
+        context: {"route_initial":true,"view":"assets","user":[],"marketplace_app_cdn_url":"https:\/\/frontify-artifacts.com","success":true,"features":["ANALYTICS","ASSET_AUDIT_TRAIL","ASSET_EXPIRY_NOTIFICATIONS","ASSET_LIFECYCLE","AUTOMATIONS","AUTO_TAGGING","BRAND_UPDATE","COLLECTIONS","CONDITIONAL_FACETS","CORE_ACCESS_REQUEST","CORE_BRANDED_LOGIN_PAGE","CORE_CUSTOM_EMAIL_TEMPLATE","CORE_CUSTOM_SUBDOMAIN","CORE_MULTIPLE_STYLEGUIDE","CORE_SSO","CORE_USER_GROUPS","CUSTOM_CROPPING","DAM_METADATA","DOWNLOAD_REQUEST","FOCAL_POINT","MARKETPLACE","MARKETPLACE_SHARE_LINK","PUBLIC_API","PUBLIC_ASSET_SHARING","PUBLISHING_SAVE_TO","REPORTS","STYLEGUIDE_CHANGELOG","STYLEGUIDE_PUBLIC_SHARING","STYLEGUIDE_SEGMENT_ANALYTICS","STYLEGUIDE_STATS","STYLEGUIDE_TERMS","TARGETS","TWO_FACTOR_AUTHENTICATION","WORKSPACE_API_ACCESS","WORKSPACE_EXTERNAL_ASSET_PASSWORD_PROTECTION","WORKSPACE_WORKFLOW","WORKSPACE_WORKFLOW_CUSTOM"],"products":["BRAND_PORTAL","DAM","DOCUMENT_LIBRARY","ICON_LIBRARY","LOGO_LIBRARY","STYLEGUIDE"],"account":{"development_flags":["ASSET_DESCRIPTION_OVERLAY","ASSET_SEARCH_METRICS_LOGGER","AUTOMATION_DISPATCH_SQS","BRAND_ASSISTANT_EXACT_TERM_SEARCH","CROSS_LIBRARY_SEARCH_SETTINGS","ESSENTIALS_MONOTYPE_TREE","GUIDELINE_DUPLICATION_TO_THEME","RESTORE_CONTENT","STYLEGUIDE_NEW_TEXT_BLOCK"]},"global_message":{"enabled":false,"text":"","admin_only":true},"authenticated":false},
+    };
+
+    window.APPLICATION_CONFIG = {
+        locales: {"cs.json":"https:\/\/cdn.frontify.com\/locales\/cs.30726a0ee35ba25a.json","da.json":"https:\/\/cdn.frontify.com\/locales\/da.b737ec7b5b848ae0.json","de.json":"https:\/\/cdn.frontify.com\/locales\/de.269800616a5b50a9.json","en.json":"https:\/\/cdn.frontify.com\/locales\/en.132d7eba1608f405.json","es.json":"https:\/\/cdn.frontify.com\/locales\/es.99fa3a3eb1b0ada7.json","fi.json":"https:\/\/cdn.frontify.com\/locales\/fi.0fdc33c412cde90d.json","fr.json":"https:\/\/cdn.frontify.com\/locales\/fr.09096e2d900d175b.json","it.json":"https:\/\/cdn.frontify.com\/locales\/it.c0b25839f085c453.json","nl.json":"https:\/\/cdn.frontify.com\/locales\/nl.c76d1eaf5981baa8.json","no.json":"https:\/\/cdn.frontify.com\/locales\/no.e4797239b753af59.json","pl.json":"https:\/\/cdn.frontify.com\/locales\/pl.fe8843d656a333d3.json","pt.json":"https:\/\/cdn.frontify.com\/locales\/pt.3557d5f38b00b5e1.json","sv.json":"https:\/\/cdn.frontify.com\/locales\/sv.50349067a67af251.json"},
+        thirdParty: {
+            amplitude: {
+                enabled: true,
+                amplitudeId: "ebff31b9da313efd071a193786671111",
+                region: "EU",
+                accountId: 4001733,
+                enterpriseEnabled: true,
+                enterpriseId: 4000111,
+                plan: "ENTERPRISE",
+                isPaid: true,
+                isTrial: false,
+                user: {
+                    id: null,
+                    creator: null,
+                    signUpDate: null,
+                    referer: null,
+                    landing: null,
+                },
+            },
+            intercom: {
+                enabled: false,
+                settings: null,
+            },
+            pusher: {
+                enabled: false,
+                key: "82fd55a977a6d3250528",
+                cluster: "eu",
+                projectIds: [],
+            },
+            segment: {
+                enabled: false, // Only enabled on Guidelines
+            },
+            sentry: {
+                enabled: true,
+                dsn: "https://07efd26759d575d252eb3fb4f5539d3d@sentryapp.appsupport.frontify.dev/51",
+            },
+        },
+    };
+</script>
+<script type="text/javascript" src="https://cdn.frontify.com/js/frontify-react-vendors-production.c53fe64cd845459c.js"></script>
+<script type="text/javascript" src="https://cdn.frontify.com/js/frontify-runtime.94bde4da743ada25.js"></script>
+<script type="text/javascript" src="https://cdn.frontify.com/js/frontify-vendors.ec56782add77275e.js"></script>
+<script type="text/javascript" src="https://cdn.frontify.com/js/frontify-bootstrap.f5cbb42a6ed002c7.js"></script>
+
+    </body>
+</html>

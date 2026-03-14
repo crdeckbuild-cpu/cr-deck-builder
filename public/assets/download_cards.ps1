@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://supercell.com/images/8a1a8d0b5e82d5f65a435c3f4e4a3c7a/logo_clashroyale.0c4a6d2c.png" -OutFile "clash-royale-logo.png"
